@@ -1,1 +1,1 @@
-Here I have segmented out the crop rows in the images using Open CV. I have used threshold method for the segmentation.Initialy I splitted the rgb colours in the image and filtered out all the colours except green and ten I  used thrshold_otsu technique to find out the optimum threshold 
+Here I have segmented out the crop rows in the images using Open CV. I have used threshold method for the segmentation. Threshold_otsu technique is used to find the optimum threshold. 
